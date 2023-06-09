@@ -1,4 +1,6 @@
 # boskos
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcheld%2Fboskos.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcheld%2Fboskos?ref=badge_shield)
+
 
 
 ## Background
@@ -309,3 +311,7 @@ You can reach the maintainers of this project at:
 ### Code of conduct
 
 Participation in the Kubernetes community is governed by the [Kubernetes Code of Conduct](code-of-conduct.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcheld%2Fboskos.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcheld%2Fboskos?ref=badge_large)
